@@ -80,7 +80,9 @@ Is there a correlation between rating (1–5) and total sales or viewer count?
 
 The Web Series Rating & Revenue Dashboard successfully consolidates 500 records into actionable intelligence. Hollywood content dominates revenue; Thriller is the highest-rated genre; SonyLIV leads platform profitability. The dashboard empowers content strategy teams to prioritise high-return genres and industries, renegotiate platform deals based on real performance data, and spot underperforming series before they drain further investment. With slicers and pivot-driven visuals, the tool is ready for dynamic exploration without requiring any advanced technical skill — making it a practical decision-support asset for OTT business analysts.
 
-8. https://github.com/Raghav-tyagi01/Web-Series-Rating-Revenue-Dashboard/blob/main/Web%20Series%20Rating%20%26%20Revenue%20Dashboard%20screen%20short.png
+
+<img width="1309" height="533" alt="snap_short Web Series Rating   Revenue Dashboard screen short" src="https://github.com/user-attachments/assets/036a759d-376e-41d5-aa91-11bbab5ece09" />
+ https://github.com/Raghav-tyagi01/Web-Series-Rating-Revenue-Dashboard/blob/main/Web%20Series%20Rating%20%26%20Revenue%20Dashboard%20screen%20short.png
 
 
 
