@@ -68,13 +68,9 @@ The key goals of this dashboard are:
 
 •	Enable quick filtering and sorting by platform, industry, genre, rating, or review label.
 
-## API Reference
+## 7.  Key Visuals
 
-#### Get all items
-
-```http
-  GET /api/items
-```
+#### The dashboard includes the following visual components:
 
 | 📊  Bar Chart  | 
 | :--------|
