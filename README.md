@@ -26,7 +26,7 @@
 📄 Data Modeling (multi-sheet relationships) 
 ## 4. Data Source
 
-| Color             | Hex                                                                |
+|              |                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | S.No | ![#0a192f](https://dummyimage.com/10/0a192f/white?text=+)Serial number (row identifier).|
 | Release Date | ![#f8f8f8](https://dummyimage.com/10/f8f8f8/white?text=+)Date the series was released on the platform .    |
